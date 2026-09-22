@@ -1,3 +1,4 @@
 age = 22
-my_age = age + 42
+ft_age = 42
+my_age = age + ft_age
 print(my_age)
